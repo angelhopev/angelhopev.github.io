@@ -1,0 +1,15 @@
+/* css used to target all portfolio web pages */
+/* applies to all web pages to promote consistency       */
+body {
+    background: rgba(81, 134, 248, 0.404);
+    color: #333333;
+    font-size: 1.25rem;
+}
+nav li{
+    display: inline;
+    float: left;
+    padding: 10px 20px;
+    background-color: rgb(161, 161, 161);
+    text-align: center;
+}
+
