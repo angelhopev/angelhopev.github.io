@@ -17,7 +17,6 @@ nav li{
 	background: rgba(243,205,170, 0.4);
 	border-radius: 15%;
 	max-width: 70%;
-	content: center;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -30,7 +29,7 @@ body{
 main{
 	background: linear-gradient(#FFFFFF, #F0F9E6);
 	padding: 10px;
-	margin: 20x;
+	margin: 20px;
 	border-radius: 2em;
 	font-size: 1.25em;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
