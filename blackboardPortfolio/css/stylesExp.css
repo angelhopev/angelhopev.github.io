@@ -1,0 +1,40 @@
+/* css used to style experience.html */
+/*   display project examples        */
+
+    .projects {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .hobbyBox.emotes{
+        background: linear-gradient(black, white);
+    }
+    .hobbyBox.videos{
+        background: linear-gradient(black, white);
+    }
+    .hobbyBox {
+        background: #FFFFFF;
+        border: 1px solid #000000;
+        float: left;
+        margin: 10px;
+        text-align: center;
+        width: 31%;
+    }
+    
+    .hobbyBox h4.hobbyName {
+        color: rgb(255, 255, 255);
+        padding: 15px;
+    }
+
+    .hobbyBox img {
+        margin-bottom: 20px;
+    }
+    
+    .hobbyBox iframe{
+        border-radius: 30px;
+    }
+    .hobbyBox a.button {
+        padding: 1px;
+    }
+    footer {
+        clear: left;
+    }
