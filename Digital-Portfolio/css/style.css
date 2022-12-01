@@ -27,7 +27,6 @@ div{
 button{
     position: relative;
     top: -120px; left: 20px;
-    /*center button?*/
 }
 hr{
     margin: 10px 0px 10px;
@@ -92,7 +91,6 @@ header img{
     width: 26px;
     padding: 1px 2px;
     margin-left: 7px;
-    /*float: right;*/
 }
 footer p{
     display: flex;
