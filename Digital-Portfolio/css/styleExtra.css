@@ -1,0 +1,64 @@
+.resume button, .submitBtn{
+    background-color: #494d7e;
+    color: #fbf5ef;
+    padding: 14px;
+    text-align: center;
+    border-radius: 8px;
+    display: flex;
+}
+.resume a{
+    text-decoration: none;
+    color: #fbf5ef;
+}
+.resume button:hover, form .submitBtn:hover{
+    background-color: #9b7a7f;
+}
+.resume img{
+    border-radius: 30px;
+}
+form .submitBtn{
+    margin: auto;
+}
+#banner{
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+}
+.resume .viewBtn{
+    display: block;
+}
+.art, .video, .game, .hobbies div{
+    background-color: #18489142;
+    border-radius: 15px;
+    margin: 10px;
+}
+.art img, .game img, .video iframe{
+    border-radius: 15px;
+    margin: 5px 5px;
+}
+.art, .video, .game{
+    display: flex;
+    align-items: center;
+}
+.hobbies, .art, .video, .game, .docs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+.hobbies p{
+    padding: 5px;
+}
+.aboutDesc{
+    display: flex;
+    align-items: center;
+}
+.center{
+    text-align: center;
+    margin: 0px 50px;
+}
+.youtube{
+    color: rgb(255, 140, 140);
+}
+/*.w25
+use left, top, bottom, right?*/
