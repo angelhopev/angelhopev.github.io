@@ -9,9 +9,6 @@
 	h2{
 		display: none;
 	}
-	footer{
-		background-image: linear-gradient(to top, rgba(144,199,227,1),rgba(255,255,255,1));
-	}
 }
 img{
 	max-width: 100%;
@@ -70,10 +67,11 @@ main ul
 footer 
 { 
 	font-size: 75%;
-    font-style: bold;
+    	font-style: bold;
 	text-align: center;
 	font-family: Georgia, 'Times New Roman', serif;
 	font-style: italic;
+	background-image: linear-gradient(to top, rgba(144,199,227,1),rgba(255,255,255,1));
 }
 dt 
 { 
